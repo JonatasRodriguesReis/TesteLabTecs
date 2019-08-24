@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Change the base URL 
+```
+./src/main.js
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
